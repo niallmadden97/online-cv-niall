@@ -25,6 +25,8 @@ sidebar:
         - item: Looker
         - item: Power BI
         - item: Excel
+        - item: Jira
+        - item: Confluence
         - item: Python (Intermediate)
       title2: Certifications
       info2:
