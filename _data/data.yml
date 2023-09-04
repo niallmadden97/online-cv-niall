@@ -29,8 +29,8 @@ sidebar:
         - item: Confluence
         - item: Python 
         
-      title2: Certifications
-      info2:
+      title: Certifications
+      info:
         - item: IBM Data Science Professional Certificate  
           link: https://www.credly.com/badges/69552784-8e41-4a34-8742-5b6828ace001?source=linked_in_profile
         
@@ -39,6 +39,7 @@ sidebar:
         
         - item: Excel 2016 - Advanced Formulas and Functions
           link: https://www.linkedin.com/learning/certificates/1dcb13842a4d2582ee76c75371ffc4a48c7726e375d2a8ddb7a79e3ca666f296?trk=share_certificate
+
 education:
     title: Education
     info:
