@@ -18,7 +18,6 @@ sidebar:
  
       
     interests:
-    
       title: Skills
       info:
         - item: SQL
@@ -28,9 +27,8 @@ sidebar:
         - item: Jira
         - item: Confluence
         - item: Python 
-        
-      title: Certifications
-      info:
+      title2: Certifications
+      info2:
         - item: IBM Data Science Professional Certificate  
           link: https://www.credly.com/badges/69552784-8e41-4a34-8742-5b6828ace001?source=linked_in_profile
         
