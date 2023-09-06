@@ -151,12 +151,17 @@ p {
   .interests-list {
     margin-bottom: 0;
     li {
-      margin-bottom: 10px;
+      margin-bottom: 5px;
       &:last-child {
         margin-bottom: 0;
       }
     }
   }
+.container-block-title {
+    &.second-title {
+        margin-top: 60px; // Adjust this value as needed
+    }
+}
 }
 
 .main-wrapper {
